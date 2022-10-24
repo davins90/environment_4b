@@ -1,1 +1,2 @@
-ECHO attivo.
+pandas
+numpy==1.22
