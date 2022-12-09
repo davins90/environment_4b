@@ -1,0 +1,15 @@
+artifact_uri: file:///src/notebooks/MLE-10/assignments/week-07-intro-dl/nb/mlruns/0/fe8157a384314a0bbbb652643d03e339/artifacts
+end_time: 1670551203133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe8157a384314a0bbbb652643d03e339
+run_name: dapper-stag-267
+run_uuid: fe8157a384314a0bbbb652643d03e339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670551187248
+status: 3
+tags: []
+user_id: feynman
